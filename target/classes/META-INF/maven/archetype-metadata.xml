@@ -1,0 +1,10 @@
+  <archetype-descriptor name="monpetit">
+  <fileSets>
+    <fileSet filtered="true">
+      <directory></directory>
+      <includes>
+        <include>pom.xml</include>
+      </includes>
+    </fileSet>
+  </fileSets>
+</archetype-descriptor>
